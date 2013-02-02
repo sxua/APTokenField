@@ -238,6 +238,7 @@
 		5B0D4A821497503B00A89219 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "APTokenField/APTokenField-Prefix.pch";
 				INFOPLIST_FILE = "APTokenField/APTokenField-Info.plist";
@@ -249,6 +250,7 @@
 		5B0D4A831497503B00A89219 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "APTokenField/APTokenField-Prefix.pch";
 				INFOPLIST_FILE = "APTokenField/APTokenField-Info.plist";
