@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "APTokenField"
   s.version      = "0.0.1"
-  s.summary      = "A simple, lightweight, yet equally powerful version of Three20's TTPickerTextField"
+  s.summary      = "A simple, lightweight, yet equally powerful version of Three20's TTPickerTextField."
   s.homepage     = "https://github.com/arashpayan/APTokenField"
   s.license      = {
     :type => 'New BSD',
